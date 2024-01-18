@@ -1,0 +1,20 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: var(--f-family);
+    font-size: 1.6rem;
+    color: var(--text);
+}
+ul{
+    list-style: none;
+}
+h1, h2, h3, h4{
+    margin: 1rem  0 2rem 0;
+}
+a{
+    text-decoration: none;
+}
+p{ 
+    margin: 1rem 0;
+}
