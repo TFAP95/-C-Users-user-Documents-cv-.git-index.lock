@@ -130,7 +130,7 @@ aside .block .social-contenair {
   display: flex;
   justify-content: start;
   align-items: center;
-margin: 2rem 0;
+  margin: 2rem 0;
 }
 aside .block .social-contenair p {
   margin: 0;
@@ -144,7 +144,7 @@ aside .block .social-contenair i {
 
 main {
   padding: 5rem;
-  }
+}
 main p {
   line-height: 3rem;
   letter-spacing: 0.2rem;
